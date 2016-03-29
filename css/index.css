@@ -1,0 +1,13 @@
+#canvas{
+	border: 1px solid #000;
+	background: url(../image/2.jpg) ;
+	background-size: cover;
+	 
+}
+#btn{
+	position: absolute;
+	top:30%;
+	left: 15%;
+	margin-left: -90px;
+	margin-top: 40px;
+}
